@@ -97,7 +97,7 @@
 
 * Visit `http://localhost:8080`
 
-## Deploy to AppEngine Managed VMs/etc/profile.d/mavenenv.sh
+## Deploy to AppEngine Managed VMs
 
 * In one of the subdirectories to this `README.md` file:
 
