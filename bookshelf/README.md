@@ -8,7 +8,7 @@
   java -version
   ```
   
-* [Apache Maven](http://maven.https://github.com/GoogleCloudPlatform/getting-started-java.gitapache.org) 3.3.9 or greater
+* [Apache Maven](http://maven.apache.org) 3.3.9 or greater
 
   ```
   mvn -v
