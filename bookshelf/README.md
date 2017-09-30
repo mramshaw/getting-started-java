@@ -48,6 +48,8 @@
   ```
   gcloud components list
   ```
+  
+  Note that the Python Extensions (`app-engine-python`) have been updated as well.
 
 ## Before you begin
 * Create a cloud Project using [Cloud Developer Console](https://console.google.com)
