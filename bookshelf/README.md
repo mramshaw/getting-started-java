@@ -97,7 +97,7 @@
 
 * Visit `http://localhost:8080`
 
-## Deploy to AppEngine Managed VMs
+## Deploy to AppEngine Managed VMs/etc/profile.d/mavenenv.sh
 
 * In one of the subdirectories to this `README.md` file:
 
@@ -108,5 +108,6 @@
 ## TODO
 
 - [x] Verify with latest Cloud SDK (used `173.0.0`)
+- [x] Verify with latest Java Extensions (used `1.9.56`)
+- [x] Verify with latest Maven (used `3.5.0`)
 - [ ] Verify with latest Java (used `openjdk version "1.8.0_131"`)
-- [ ] Verify with latest Maven (used `3.3.9`)
